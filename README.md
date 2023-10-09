@@ -22,7 +22,7 @@ Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
 
 - React js https://pt-br.legacy.reactjs.org/
 - React Bootstrap https://react-bootstrap.netlify.app/
-- React Router Doom https://reactrouter.com/en/main
+- React Router Dom https://reactrouter.com/en/main
 - Yup https://www.npmjs.com/package/yup
 - Phosphor icons https://phosphoricons.com/
 
